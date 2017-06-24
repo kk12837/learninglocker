@@ -1,3 +1,18 @@
+1.14.2
+- fixed missing imports in Doctrine data source (thanks jenssegers)
+
+1.14.1
+- fixed collecting Eloquent queries when using PDO_ODBC driver for real (thanks abhimanyu003)
+
+1.14
+- added support for Server-Timing headers (thanks Garbee)
+- fixed compatibility with Lumen 5.4 (thanks Dimasdanz)
+- fixed collecting Eloquent queries with bindings containing backslashes (thanks fitztrev)
+- fixed collecting Eloquent queries when using PDO_ODBC driver (thanks abhimanyu003)
+- fixed collecting Doctrine queries with array bindings (thanks RolfJanssen)
+- replaced Doctrine bindings preparation code with more complete version from laravel-doctrine
+- fixed PHP 5.3 compatibility
+
 1.13.1
 - fixed compatibility with Lumen 5.4 (thanks meanevo)
 
