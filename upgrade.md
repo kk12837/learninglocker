@@ -1,3 +1,5 @@
+#for windows - can be used directly
+
 # Laravel Upgrade Guide
 
 ## Upgrading From 4.0 to 4.1
