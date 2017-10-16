@@ -1,4 +1,4 @@
-#for windows - can be used directly
+#for windows - can be used directly (learning locker xampp version)
 
 [![Learning Locker Logo](http://i.imgur.com/w7SEoF6.png)](http://learninglocker.net)
 > An open source Learning Record Store (LRS) implementing the [xAPI](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md) ([Tin Can API](http://tincanapi.com/)).
